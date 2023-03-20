@@ -22,9 +22,9 @@ To address this problem, we have decided to develop a car-rental software, which
 - To facilitate the renting process via the use of this software.
 
 ## App Description: ##
-GoDrive Albania will be designed as a web-based application, Internet accessible. This software will consist of three main modules: Guest, Users, Businesses, and Admin.     
+GoDrive Albania will be designed as a web-based application, Internet accessible. This software will consist of four main modules: Guest, Users, Businesses, and Admin.     
 - Guests: these users can view the website and check information regarding the rental options. They can also inquire through the Contact Us page.  
-- Users: registered users can log in with an email and password. They are able to book vehicles, view car booking history, edit profile, and post/view reviews.
+- Users: Guests can become registered users and log in with an email and password. They are able to book vehicles, view car booking history, edit profile, and post/view reviews.
 - Business: these users represent the car-rental companies, who are to post, manage, and delete their various offers on the site.
 - Admins: these users manage and have access to everything on the site. This role will be exclusive to developers, who will serve as peacekeepers, ensuring that the website remains functional and that community guidelines are followed.  
   
