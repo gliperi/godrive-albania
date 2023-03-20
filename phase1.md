@@ -8,7 +8,7 @@ Glen Liperi
 Klea Luka  
 
 ## Team Leader: ##
-Glen Liperi 
+*Glen Liperi*
 
 ## Problem Identified: ##
 After conducting a market analysis, our group discovered a lack of car rental software services in the region of Albania. Frequently, people in need of a car rental service spend the majority of their time scouring the Internet in search of different service providers, leaving them with less time to actually focus on making the best decision. This is especially true for tourists, or businessmen visiting our country, who are in need of a quick-and-easy solution.
@@ -16,7 +16,7 @@ After conducting a market analysis, our group discovered a lack of car rental so
 ## Proposed Solution: ##
 To address this problem, we have decided to develop a car-rental software, which will serve as a means of communication between rental companies and potential customers. The software aims to enable its users to quickly and effectively provide a platform to scout numerous choices, alternatives, and give the users the option to filter and sort the available vehicles as they please.
 
-## Main Objectives ##
+## Main Objectives *(Aim)* ##
 - To provide a convenient platform for large, premium and small car rental businesses.
 - To provide functionality by storing, listing, and booking available vehicles for rent.
 - To facilitate the renting process via the use of this software.
