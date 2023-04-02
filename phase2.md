@@ -64,3 +64,15 @@
 
 
 # Non-functional Requirements (Deniz)
+**Non-Functional System Requirements**
+1. Performance: the system should be able to handle a certain number of users and respond within a specific time frame.
+2. Usability: the system should be easy to use, intuitive, and provide clear and concise feedback to the users.
+3. Security: the system should have the necessary security measures in place to protect against unauthorized access, data breaches, and other security threats.
+4. Reliability: the system should be able to function as intended without crashing or producing errors.
+5. Maintainability: the system should be easy to maintain and update, with clear documentation and code structure.
+6. Scalability: the system should be able to handle increasing amounts of data or users without compromising performance.
+7. Portability: the system should be able to run on different platforms and environments.
+8. Availability: the system should be available for use at all times, with minimal downtime or scheduled maintenance.
+9. Compliance: the system should comply with applicable laws, regulations, and standards.
+10. Localization: the system should support multiple languages, currencies, and cultural conventions.
+11. Data Privacy: the system should protect the privacy of sensitive user data and adhere to data protection laws.
