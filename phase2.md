@@ -1,5 +1,15 @@
 # Development Model (Klea)
+### Plan Driven Model – Waterfall Model
 
+GoDrive Albania is a plan-driven software model designed to achieve all the phases required to develop the application. GoDrive Albania is a generic product, based even in the market absences that generate user issues as user requirements which are later translated into important part of the software structure.
+
+Documentation of each phase of developing the model is a key factor in work organization and its veracity. Using this model will help us to be careful in the designing and its requirements because if there is something to change during the time evolution, step by step processing will lead in better coordination and work division.
+
+_Phase 1_ - Requirements Definition  
+_Phase 2_ - System and Software Design  
+_Phase 3_ - Implementation and Unit Testing  
+_Phase 4_ - Integration and System Testing  
+_Phase 5_ - Operation and Maintenance  
 
 
 # User and System Requirements (Glen)
@@ -54,10 +64,36 @@
  9.3 A contact form can be filled in to directly contact a system admin who will provide users with more information.  
  9.4 A cellphone number will be displayed so that users can phone in at certain hours to talk and resolve any issues, misunderstandings, or fulfill any information needs that they may have.  
  
-
+ 
 # External Interface Requirements (Klea)
+### User Interface
 
+GoDrive Albania software will be equipped with attractive, clear, consistent and responsive UI.
+UI requirements are briefly mentioned below:
 
+- Easy navigation  
+- Simple interface  
+- Responsive  
+- Consistent UI elements  
+- Feedback mechanism  
+- Attractive layout  
+- Strategic use of color and texture  
+- Provide helpful information  
+ 
+### Hardware Interface  
+- Hardware required: none  
+- Nature of the data: image data, text data, number data, date  
+### Software Interface Requirements  
+
+- Connection of the software with Operating System: GoDrive Albania software is developed for Android, iOS, Windows 7, Windows 8, Windows 10
+
+### Communication Interface Requirements
+
+- Communication standards and network server communication protocols: HTTP or HTTPS 
+- Electronic forms: HTML forms to get feedback and data from the user  
+- Message formatting: image based, text based, number based  
+- Email  
+- Communication security and encryption issues  
 
 # Functional Requirements (Artea)
 
