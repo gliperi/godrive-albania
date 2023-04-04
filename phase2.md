@@ -103,34 +103,39 @@ Functional requirements are the desired operations of a program, or system as de
 - After logging in, they have the right to edit, add and delete information.
 - Meanwhile, for a user there are two options.
 - A new user must sign up. This will require to insert name, contact number, an email address and the creation of an 8-digit password.
-- While an old user can log in with the profile he opened in the application before.
+- While a returning user can log in with the profile they created in the application before.
 
 **Car & Reservation:**
 - The system will allow staff to register new cars.
-- The system will allow staff to update information of the car in need of modification.
+- The system will allow staff to update information of the cars in need of modification.
 - The system will allow staff to display all lists of cars.
-- The system will allow staff to display all available car.
+- The system will allow staff to display all available cars.
 - Customer will be able to search the car name and then sort them by price or year model.
-- By clicking on a specific car all the details will show up such as: Name and model with picture; Registration number; Fuel consumption; Insurance details; Cost; Availability; Previous feedbacks etc.
+- By clicking on a specific car all the details will show up such as:
+   - Name and model with picture
+   - Registration number
+   - Fuel consumption
+   - Insurance details
+   - Cost
+   - Availability
+   - Previous feedbacks
 - The system will allow the customers to cancel reservation using reservation confirmation number.
 - The system will also allow the employee to view every action made by customers.
 
 **Calculate cost:**
 - The user can calculate the cost for the renting process after selecting the car.
-- The cost will be calculated using input and the cost information in the system such as: Time duration(days), car brand etc.
+- The cost will be calculated using input and the cost information in the system such as:
+   - Time Duration (days)
+   - Rental Price
+   - Distance Driven (km)
 
 **Collect feedback from customer:**
 - The user will be provided by a new tab where he can add feedback about the car and the service provided.
 - Admin can read feedback and then decide to send it to the history of customer activities.
 - Then every user can see the feedbacks.
 
-
-
-
-
 # Non-functional Requirements (Deniz)
 **Non-Functional System Requirements**
-Non-Functional System Requirements
 1. **Performance**: the system should be able to handle a certain number of users and respond within a specific time frame.  
 1.1 Optimizing the algorithms and data structures: We should minimize the number of operations used to perform a task by optimizing the algorithms and data structures.   
 1.2 Optimizing network usage: We should minimize the amount of data transmitted over the network and use low-sized data by optimizing network usage.    
