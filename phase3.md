@@ -6,7 +6,12 @@
 ## Interaction Models ##
 ### Use Case Modeling ###
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/127315639/232870450-be520976-9886-43c3-a71b-7c310849e407.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918827-3f7ceca2-83ab-4ea0-af82-873732024c5d.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918772-1173ae10-fe49-4191-b94b-baf4069006ac.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918887-09864afc-b3d3-4e28-942d-38929e42a6c2.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918415-0e4418dd-281d-4215-8034-ca54ba19738c.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918963-cf609f73-7244-4aeb-ac2f-f07baa0c46d0.png"/>
+  <img src="https://user-images.githubusercontent.com/127315639/232918982-e113b660-63e0-49d6-90f5-4e27395f74ef.png"/>
 </p>
 
 ### Sequence Diagrams ###
@@ -14,9 +19,11 @@
   <img src="https://user-images.githubusercontent.com/127315639/232870346-2964b9da-221e-4b60-a11c-41950250927a.png"/>
 </p>
 
-
 ## Structural Models ##
 ### Class Diagrams ###
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/127315639/232919600-44c5b8b1-dc82-4445-80d1-79536b297b19.png"/>
+</p>
 
 ## Behavioral Models ##
 ### Data-Driven Modeling ###
