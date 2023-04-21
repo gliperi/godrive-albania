@@ -1,9 +1,14 @@
 # System Design and Modeling #
 
 ## Context Models ##
-![Context Models drawio (2)](https://user-images.githubusercontent.com/128375652/233481837-922c3110-3f6e-4e1e-be27-08dda22bfef2.png)
+<p align=center>
+<img src="https://user-images.githubusercontent.com/128375652/233481837-922c3110-3f6e-4e1e-be27-08dda22bfef2.png">
+</p>
+
 ### Process/Activity Models ###
-![UML activity diagram drawio](https://user-images.githubusercontent.com/128375652/233491417-d8b8a75c-be81-40ea-9cba-c93a1b7f6e25.png)
+<p align=center>
+<img src="https://user-images.githubusercontent.com/128375652/233491417-d8b8a75c-be81-40ea-9cba-c93a1b7f6e25.png">
+</p>
 
 ## Interaction Models ##
 ### Use Case Modeling ###
